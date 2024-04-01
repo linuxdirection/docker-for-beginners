@@ -1,0 +1,3 @@
+[submodule "lab-6/docker-ci-cd-demo"]
+	path = lab-6/docker-ci-cd-demo
+	url = https://github.com/linuxdirection/docker-ci-cd-demo
